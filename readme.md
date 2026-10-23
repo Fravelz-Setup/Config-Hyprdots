@@ -1,18 +1,5 @@
 # Hyprdots
 
-
-<!-- presentacion-org -->
-
-Organización: **[Fravelz Setup](https://github.com/Fravelz-Setup)**
-
-| Dato | Enlace |
-| --- | --- |
-| Guía | [fravelz.github.io/WEB-Hyprdots](https://fravelz.github.io/WEB-Hyprdots/) |
-| Repositorio | [Fravelz-Setup/Config-Hyprdots](https://github.com/Fravelz-Setup/Config-Hyprdots) |
-| Web de la guía | [FraVelz/WEB-Hyprdots](https://github.com/FraVelz/WEB-Hyprdots) |
-| Variante simple | [Hyprdots-Simple](https://github.com/Fravelz-Setup/Hyprdots-Simple) |
-| Sway | [Config-Sway](https://github.com/Fravelz-Setup/Config-Sway) |
-
 Repositorio de configuración de Arch Linux con Hyprland.
 
 Configuración modular y personalizable para un entorno de escritorio moderno en Wayland.
@@ -39,7 +26,7 @@ Configuración modular y personalizable para un entorno de escritorio moderno en
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/Fravelz-Setup/Config-Hyprdots.git ~/Documentos/others/Hyprdots
+git clone <url-del-repositorio> ~/Documentos/others/Hyprdots
 cd ~/Documentos/others/Hyprdots
 ```
 
